@@ -1,0 +1,1 @@
+O processo tdd baseia-se em fazer um teste unitario, que vá a falhar. Então, implementar um código mínimo para o teste seja aprovado. E por fim, refatorar o código, para deixá-lo mais limpo. E o ciclo recomeça. A ideia principal é usar os testes para que o código implementado esteja com seu comportamento esperado.
