@@ -31,7 +31,7 @@ class HomePageTest(TestCase):
         self.assertNotContains(response, 'other list item 1')
         self.assertNotContains(response, 'other list item 2')
 
-class ListAndItemModelsTest(TestCase):
+class ListViewTest(TestCase):
 
     def test_saving_and_retrieving_items(self):
         my_list = List()
